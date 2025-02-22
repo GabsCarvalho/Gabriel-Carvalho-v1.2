@@ -387,12 +387,12 @@ header{
 }
 
 .image-frente{
-    background-image: url(Imagens/AVATAR.png);
+    background-image: url(../../Imagens/AVATAR.png);
     background-size: cover;
 }
 
 .image-tras{
-    background-image: url(Imagens/FOTO-EU.png);
+    background-image: url(../../Imagens/FOTO-EU.png);
     background-size: cover;
     transform:rotateY(180deg);
 }
